@@ -1,0 +1,1 @@
+hbsl blah blah blah FitCache {{ '--taskyVersion: ' + taskyVersion if taskyVersion is defined }} --extractorVersion:{{ extractorVersion }} --farmTags {{ farmTags }} --somethingElse {{ somethingElse }}

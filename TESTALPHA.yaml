@@ -1,0 +1,10 @@
+PredictorCalculator:
+    extractorVersion: 177773
+    taskyVersion: 19393
+    farmTags: "workflow::prod,instance::{{ extractorVersion }}"
+    somethigElse: thisIsSomethingElse
+
+FitCache:
+    extractorVersion: 14cjeje
+    taskyVersion: '19393'
+    fitCache: §92923
